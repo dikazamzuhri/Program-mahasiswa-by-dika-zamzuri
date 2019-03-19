@@ -1,0 +1,7 @@
+D:\Github\Class\Class\Class\bin\Debug\Class.exe.config
+D:\Github\Class\Class\Class\bin\Debug\Class.exe
+D:\Github\Class\Class\Class\bin\Debug\Class.pdb
+D:\Github\Class\Class\Class\obj\Debug\Class.csprojAssemblyReference.cache
+D:\Github\Class\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\Github\Class\Class\Class\obj\Debug\Class.exe
+D:\Github\Class\Class\Class\obj\Debug\Class.pdb
